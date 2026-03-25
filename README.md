@@ -1,18 +1,33 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Hanen Profile</title>
-</head>
+<p align="center">
+  <!-- Typing Effect -->
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Hi+I'm+Hanen+👋;Computer+Engineering+Graduate+💻;Web+Development+Enthusiast+🌐;Always+Learning+🚀" />
+</p>
 
-<body style="text-align: center; background-color: #111; color: white;">
+<p align="center">
+  Hi there 👋 welcome to my GitHub! I'm a Computer Engineering graduate 💻 <br>
+  I'm passionate about programming, especially web development 🌐 <br>
+  I love learning, exploring new technologies, and continuously improving myself 🚀✨ <br>
+  I work on developing my skills every single day 📚💡
+</p>
 
-  <!-- العنوان -->
-  <h1 style="font-weight: bold; margin-top: 30px;">
-    مرحبا ايها العالم انا حنين
-  </h1>
+<p align="center">
+  <!-- Badges -->
+  <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript" />
+</p>
 
-  <!-- الصورة -->
-  <img src="your-image.png" alt="Hanen Image" width="400" style="margin-top: 20px; border-radius: 20px;">
+<p align="center">
+  <!-- Image -->
+  <img src="redme.png" width="300"/>
+</p>
 
-</body>
-</html>
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
+</p>
