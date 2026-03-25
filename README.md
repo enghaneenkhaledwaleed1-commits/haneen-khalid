@@ -19,7 +19,8 @@
 
 <p align="center">
   <!-- Image -->
-  <img src="redme.png" width="300"/>
+  <img src="<img width="5590" height="4472" alt="image" src="https://github.com/user-attachments/assets/7b029f04-d24d-4cfa-b8a6-725d96e622c2" />
+" width="300"/>
 </p>
 
 <p align="center">
