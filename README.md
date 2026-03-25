@@ -24,7 +24,7 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=haneen khalid&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
