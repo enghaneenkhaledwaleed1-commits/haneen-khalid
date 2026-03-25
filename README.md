@@ -16,20 +16,3 @@
   <img src="https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3" />
   <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript" />
 </p>
-
-<p align="center">
-  <!-- Image -->
-  <img src="<img width="5590" height="4472" alt="image" src="https://github.com/user-attachments/assets/7b029f04-d24d-4cfa-b8a6-725d96e622c2" />
-" width="300"/>
-</p>
-
-<p align="center">
-  <!-- GitHub Stats -->![redme](https://github.com/user-attachments/assets/8a8d3283-c29b-473c-b3a7-294e2877122b)
-
-  <img src="https://github-readme-stats.vercel.app/api?username=haneen khalid&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
-</p>
