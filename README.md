@@ -23,7 +23,8 @@
 </p>
 
 <p align="center">
-  <!-- GitHub Stats -->
+  <!-- GitHub Stats -->![redme](https://github.com/user-attachments/assets/8a8d3283-c29b-473c-b3a7-294e2877122b)
+
   <img src="https://github-readme-stats.vercel.app/api?username=haneen khalid&show_icons=true&theme=tokyonight" />
 </p>
 
